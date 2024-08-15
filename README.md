@@ -1,1 +1,1 @@
-I haven't seen anyone design anything into the GitHub commit graph, so I decided to start a project with a QUI that would accomplish this. Hope you find this interesting. Please feel free to recommend new features.
+I haven't seen anyone design anything into the GitHub commit graph, so I decided to start a project with a GUI that would accomplish this. Hope you find this interesting. Please feel free to recommend new features.
